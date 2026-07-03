@@ -1,1 +1,1 @@
-# AI Plant Disese classifier
+# AI Plant Disease classifier
